@@ -13,7 +13,7 @@
     "supabase:deploy:functions": "npx supabase@2.76.7 functions deploy create-student && npx supabase@2.76.7 functions deploy delete-student && npx supabase@2.76.7 functions deploy send-password-reset"
   },
   "dependencies": {
-    "@hookform/resolvers": "^3.9.0",
+    "@hookform/resolvers": "^5.9.1",
     "@supabase/supabase-js": "^2.49.0",
     "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
